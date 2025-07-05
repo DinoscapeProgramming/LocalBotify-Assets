@@ -4,7 +4,7 @@ This repository contains proprietary image and video assets owned and maintained
 
 ## License
 
-These assets are licensed under the **LocalBotify Media Asset License** — see the [LICENSE](./LICENSE) file for full details.
+These assets are licensed under the **LocalBotify Media Asset License** - see the [LICENSE](./LICENSE) file for full details.
 
 ## Usage
 
